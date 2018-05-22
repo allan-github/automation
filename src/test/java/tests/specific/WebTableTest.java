@@ -9,7 +9,7 @@ import org.openqa.selenium.WebDriver;
 import steps.HtmlTableSteps;
 
 @RunWith(SerenityRunner.class)
-public class WebTableTests {
+public class WebTableTest {
 
     @Managed(driver="chrome")
     WebDriver browser;
